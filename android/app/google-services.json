@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "734929825914",
+    "project_id": "powerlibrary-jan2021",
+    "storage_bucket": "powerlibrary-jan2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734929825914:android:08db902b604319d6590bc3",
+        "android_client_info": {
+          "package_name": "br.com.powerdevacademy.power_library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734929825914-6bl3l8ai1su2d31vcko7ck9hd1169vmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjOPoALvKE-OdpavjiSTwKsQOHQz0kBQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734929825914-6bl3l8ai1su2d31vcko7ck9hd1169vmm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "734929825914-jua86lmmh9j3q7130ik15o6670to4edo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.powerdevacademy.powerlibrary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
